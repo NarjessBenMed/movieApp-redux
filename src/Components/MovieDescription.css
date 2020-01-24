@@ -1,0 +1,24 @@
+.details {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+    background-color:  #0c151d; 
+  line-height: 1.8;
+}
+.movie-details {
+  width: 500px;
+  margin-left: 40px;
+  color: white;
+  
+}
+.movie-details span {
+  margin-right: 10px;
+  color: #6AC040;
+}
+
+.poster
+{
+    height:300px
+}

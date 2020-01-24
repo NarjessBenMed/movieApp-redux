@@ -1,0 +1,89 @@
+.MovieCard
+{
+display: flex;
+justify-content: space-between;
+flex-direction: column;
+background-color: black;
+height: 460px;
+width:250px;
+margin-bottom: 30px;
+margin-right: 20px;
+
+}
+
+
+.poster
+{
+ width: 248px;
+height: 300px;
+
+}
+
+
+
+
+
+
+.MovieDesc
+{
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      margin-bottom: 0px;
+   
+    
+      
+}
+
+p{
+
+    color:white
+}
+
+.MovieDesc button{
+    border-radius: 5px;
+     margin-left: 40px;
+     margin-right: 40px;
+     border: none;
+     background-color:  #6C757D;
+     color: white;
+     height: 40px;
+     
+}
+
+
+
+
+.marg
+{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+}
+
+
+.EditRemove
+{
+    display: flex;
+    margin-left: 30px;
+    margin-right: 30px;
+    justify-content:space-between;
+    margin-top: 0px;
+    
+    
+}
+
+.EditRemove button
+{
+    border-radius: 5px;
+      color:white;
+      background-color: #6C757D;
+      border:none;
+      width:80px
+}
+.star{
+
+    padding-top: 0px;
+    padding-bottom: 0px;
+    height:25px;
+}

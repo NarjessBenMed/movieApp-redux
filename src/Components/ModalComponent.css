@@ -1,0 +1,36 @@
+.ModalBody
+{
+
+display: flex;
+flex-direction: column;
+justify-content: space-between
+
+}
+
+.ModalBody input
+{
+    margin-bottom: 20px;
+    height: 40px;
+}
+
+        
+.butEdit
+{
+   width:60px;
+   padding-right: 10px;
+}
+
+
+
+.addM
+
+{
+margin-left: 0px;
+height: 100px;
+width:250px;
+font-weight: 900;
+border-radius: 20px;
+
+
+
+}
